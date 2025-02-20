@@ -21,7 +21,7 @@ Follow the steps below to set up and run this project locally:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Prasad-hg/Backend_REST.git
+git clone https:https://github.com/SHASHANK-146/Backend_REST.git
 
 2. Install dependencies
 Navigate to the project directory and install all required dependencies:
